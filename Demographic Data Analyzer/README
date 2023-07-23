@@ -1,3 +1,10 @@
-info
+# Project 2: Demographic Data Analyzer
 
+See link below for an in-depth explanation for the objectives:
 https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer
+
+Summary:
+Given the dataset, "adult.datata.csv", create code to answer questions using math and pandas.
+
+demographic_data_analyzer.py - contains the relevant code I created
+test_module.py - contains the test cases
