@@ -6,3 +6,7 @@ https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-
 Summary:
 Create a function that, upon being given a list of 9 numbers, will create a 3x3 array matrix. Then, find the mean, variance, standard deviation, max, min, and sum of each
 column, row, and flattened matrix.
+
+
+mean_var_std.py - contains the relevant code I created.
+test_module.py - contains the test cases
