@@ -3,7 +3,7 @@
 See link below an in-depth explanation for the objectives:
 https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
 
-Summary:
+<h1>Summary:</h1>
 Create a function that, upon being given a list of 9 numbers, will create a 3x3 array matrix. Then, find the mean, variance, standard deviation, max, min, and sum of each
 column, row, and flattened matrix.
 
