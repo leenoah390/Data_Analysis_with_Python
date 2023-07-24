@@ -8,3 +8,12 @@ Given the dataset, "adult.datata.csv", create code to answer questions using mat
 
 demographic_data_analyzer.py - contains the relevant code I created
 test_module.py - contains the test cases
+adult.data.csv - dataset needed for code to run
+
+
+What I learned:
+ - pandas library is completely new to me... never used it before
+ - Had to look at the pandas website and YouTube videos a lot to get familiar with the many functions
+ - working with datasets in python is also new to me. I am much more familiar with R, so I had some trouble with small stuff such as:
+      - Variable$column_name vs Variable['column_name']
+ - this project was harder than the previous, but also showed how helpful knowing pandas can be for data analysis
