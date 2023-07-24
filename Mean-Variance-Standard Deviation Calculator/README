@@ -9,3 +9,10 @@ Create a function that, upon being given a list of 9 numbers, will create a 3x3 
 
 mean_var_std.py - contains the relevant code I created.
 test_module.py - contains the test cases
+
+
+What I learned:
+ - Am already familiar with numpy a little bit from a class at MSU (MTH 314 - Linear Algebra with Python)
+ - But the summer class was more focued on matrices (so a lot of numpy.linalg functions) which this project was not really based off of
+ - Learned some of the more "general" function from the numpy library
+ - .reshape function would have been really helpful for my summer class, cool thing to know about
