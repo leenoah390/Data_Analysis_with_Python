@@ -8,3 +8,7 @@ You can also click on the grey "show code" button to see the relevant files and 
 
 
 https://www.freecodecamp.org/leenoah390
+
+
+## Context ##
+Prior to this, my only expierence using Python was a class at MSU from spring of 2021. Since then, all my coding-based classes have been focused on R, with the exception of a summer class this year (2023) that finished up about a month ago. As a result, I realized that I really needed to brush up, review, and re-learn Python so I can get back to the level of comfortableness I had in 2021.
