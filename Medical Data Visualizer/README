@@ -4,3 +4,13 @@ See link below for an in-depth explanation for the objectives:
 https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/medical-data-visualizer
 
 Summary:
+Given the dataset, "medical_examination.csv", plot a bar graph and a confusion matrix.
+
+medical_data_visualizer.py - contains the relevant code I created
+test_module.py - contains the test cases
+medical_examination.csv - dataset needed for the code to run
+
+
+What I learned:
+ - introduction to the seaborn and matplot libraries
+ - first time plotting graphs of any kind using python
