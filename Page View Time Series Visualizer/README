@@ -5,3 +5,20 @@ https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-
 
 Summary;
 Given the dataset, "fcc-forum-pageviews.csv", plot a line graph, gouped bar chart, and boxplots using different packages for each.
+
+time_series_visualizer.py - contains the relevant code I created
+test_module.py - contains the test cases
+fcc-forum-pageviews.csv - dataset needed for code to run
+
+
+What I learned:
+ - Creating the line plot (draw_line_plot()) was the easiest of the 3 graphs. I was instructed to use the matplotlib library for this.
+ - draw_bar_plot() was probably the hardest of the 3. It didn't help that the instructions were not clear on which library I had to use to create my graph.
+   - My first attempt that resulted in plotting some sort of graph was to use the seaborn package. I included the code in "seaborn_catplot.py".
+   - This included creating a dataframe that only had 4 columns: year, month, value, and an index.
+   - Using sns.catplot, I used the 'hue' argument to group the months by year, creating a plot that visually ticked off all the requirements.
+   - Unfortunately, I had some issues with my graph's legend: I could not seem to get the colors to match between my bars and the legend, and my legend's location kept overlapping with my plot. In addition, the test cases were not matching up, so I gave it another go.
+   - My second attempt (published in my final code) involved formatting the dataframe into a more 'horizontal' view, similar to a calender.
+   - Using a mixture of pandas and matplotlib, the final graph was almost identical to the given test case.
+ - In draw_box_plot(), I had to plot 2 boxplots onto the same image. This was my first time putting in an nrows/ncols arguemnt for plt.subplots().
+   - First time using a font_scale multiplier.
