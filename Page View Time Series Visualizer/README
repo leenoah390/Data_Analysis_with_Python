@@ -22,3 +22,4 @@ What I learned:
    - Using a mixture of pandas and matplotlib, the final graph was almost identical to the given test case.
  - In draw_box_plot(), I had to plot 2 boxplots onto the same image. This was my first time putting in an nrows/ncols arguemnt for plt.subplots().
    - First time using a font_scale multiplier.
+ - Credit to https://www.youtube.com/watch?v=889odedq2ww&t=540s as this walkthrough helped a lot for the grouped bar plot section.
