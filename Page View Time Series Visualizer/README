@@ -1,1 +1,7 @@
+# Project 4: Page View Time Series Visualizer
 
+See link below for an in-depth explanation for the objectives:
+https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/page-view-time-series-visualizer
+
+Summary;
+Given the dataset, "fcc-forum-pageviews.csv", plot a line graph, gouped bar chart, and boxplots using different packages for each.
