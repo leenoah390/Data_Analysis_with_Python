@@ -18,7 +18,7 @@ What I learned:
    - This included creating a dataframe that only had 4 columns: year, month, value, and an index.
    - Using sns.catplot, I used the 'hue' argument to group the months by year, creating a plot that visually ticked off all the requirements.
    - Unfortunately, I had some issues with my graph's legend: I could not seem to get the colors to match between my bars and the legend, and my legend's location kept overlapping with my plot. In addition, the test cases were not matching up, so I gave it another go.
-   - My second attempt (published in my final code) involved formatting the dataframe into a more 'horizontal' view, similar to a calender.
+   - My second attempt (published in the final code) involved formatting the dataframe into a more 'horizontal' view, similar to a calender.
    - Using a mixture of pandas and matplotlib, the final graph was almost identical to the given test case.
  - In draw_box_plot(), I had to plot 2 boxplots onto the same image. This was my first time putting in an nrows/ncols arguemnt for plt.subplots().
    - First time using a font_scale multiplier.
