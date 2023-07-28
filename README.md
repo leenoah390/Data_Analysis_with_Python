@@ -1,4 +1,4 @@
-# Data_Analysis_with_Python
+# Data Analysis with Python
 My code for the 5 projects needed to earn the [**Data Analysis with Python**](https://www.freecodecamp.org/learn/data-analysis-with-python/) certification from [FreeCodeCamp.org](https://www.freecodecamp.org/learn). The projects were submitted on [replit.com](https://replit.com/). [My profile](https://replit.com/@leenoah390) for the replit website is linked for verification. Instructions to check: <br />
 
 1. Click any of the widgets under the header "All Repls" (project submissions are in in order by date, desc.).
@@ -11,7 +11,7 @@ https://www.freecodecamp.org/leenoah390
 
 https://www.freecodecamp.org/certification/leenoah390/data-analysis-with-python-v7
 
-## Porjects in order ##
+## Projects in order ##
 1. Mean-Variance-Standard Deviation Calculator
 2. Demographic Data Analyzer
 3. Medical Data Visualizer
