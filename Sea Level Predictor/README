@@ -2,3 +2,7 @@
 
 See link below for an in-depth explanation for the objectives:
 https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/sea-level-predictor
+
+Summary:
+Given the dataset, "epa-sea-level.csv", plot a scatterplot of the data. Then, create and plot and line-of-best-fit onto the graph to predict the data trend in the future, first by using all the data, then by using the most revent data.
+
