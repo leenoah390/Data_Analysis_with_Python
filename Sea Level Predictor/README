@@ -6,3 +6,18 @@ https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-
 Summary:
 Given the dataset, "epa-sea-level.csv", plot a scatterplot of the data. Then, create and plot and line-of-best-fit onto the graph to predict the data trend in the future, first by using all the data, then by using the most revent data.
 
+sea_level_predictor.py - contains the relevant code I created
+test_module.py - contains the test cases
+epa-sea-level.csv - dataset needed for code to run
+
+
+What I learned:
+ - The final project for the code was a lot easier to do than I expected, probably because I was now somewhat familiar with how plotting graphs in python worked!
+ - Learned how to create a line-of-best-fit(LOBT) from data, and then extend it onto future indices
+ - The first LOBT was created using all avaliable data points. This was easy to do...
+ - The second LOBT was to be made using the data avaliable from the year 2000 onwards. This was a bit more difficult to come up with a process.
+   - At first, I tried by copying the code from the first LOBT and adding indexing to my x,y arguements in linregress() like below:
+
+linregress(x=df.Year[122,-1], y=df['CSIRO Adjusted Sea Level'][122, -1])
+
+   - This did not work. After some thinking, I went with a new method which is present in my final code: I created a new dataframe with .copy() and subsetted this new data down to the years I wanted. By applying the same LOBT code onto this new data, I was able to create a LOBT that focused entirely on the most recent data avaliable.
